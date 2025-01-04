@@ -1,0 +1,42 @@
+the Trajectory planning has been started Algorithm: CSCP
+The 1 iteration, the cost is 526725.5815952749
+The 2 iteration, the cost is 85878.43487133739
+The 3 iteration, the cost is 4345.653651324028
+The 4 iteration, the cost is 2140.7424801445954
+The 5 iteration, the cost is 703.1800070076083
+The 6 iteration, the cost is 20.63326483192168
+The 7 iteration, the cost is 10.451947873131843
+The 8 iteration, the cost is 9.386992435895468
+The 9 iteration, the cost is 8.853076514071496
+The 10 iteration, the cost is 8.589639635683474
+The 11 iteration, the cost is 8.47181463002424
+The 12 iteration, the cost is 8.380658710977757
+The 13 iteration, the cost is 8.292728311155294
+The 14 iteration, the cost is 8.227138929429076
+The 15 iteration, the cost is 8.1797087272099
+The 16 iteration, the cost is 8.165895108858797
+The 17 iteration, the cost is 8.158408256961103
+The sequential convex programming takes 943 seconds
+
+the Trajectory planning has been started Algorithm: d-CSCP
+The 1 iteration, the cost is 577842.369303234
+The 2 iteration, the cost is 105760.83425231377
+The 3 iteration, the cost is 5029.434295442068
+The 4 iteration, the cost is 2619.1060144229978
+The 5 iteration, the cost is 1101.109329157673
+The 6 iteration, the cost is 396.7760663186335
+The 7 iteration, the cost is 26.13521668792393
+The 8 iteration, the cost is 10.721011426878533
+The 9 iteration, the cost is 9.967044328683368
+The 10 iteration, the cost is 9.579456021588207
+The 11 iteration, the cost is 9.433656374667635
+The 12 iteration, the cost is 9.391457940590007
+The 13 iteration, the cost is 9.345903251263753
+The 14 iteration, the cost is 9.307053173926189
+The 15 iteration, the cost is 9.260521740299163
+The 16 iteration, the cost is 9.238345252163125
+The 17 iteration, the cost is 9.174068249704574
+The 18 iteration, the cost is 9.142801621317988
+The 19 iteration, the cost is 9.109873239636263
+The sequential convex programming takes 818 seconds
+
